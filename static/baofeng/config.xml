@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fieldstore>
+	<field id="1">
+		<name>巡检点位：</name>
+		<x>30</x>
+		<y>350</y>
+		<fontName>黑体</fontName>
+		<style>0</style>
+		<size>30</size>
+	</field>
+	<field id="2">
+		<name>单位/部门：</name>
+		<x>30</x>
+		<y>450</y>
+		<fontName>黑体</fontName>
+		<style>1</style>
+		<size>40</size>
+	</field>
+</fieldstore>
