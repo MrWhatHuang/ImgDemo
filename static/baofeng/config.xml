@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fieldstore>
-	<field id="1">
+	<field>
+		<name></name>
+		<dataSource>qiyemingcheng</dataSource>
+		<x>367</x>
+		<y>33</y>
+		<fontName>黑体</fontName>
+		<style>1</style>
+		<size>36</size>
+	</field>
+	<field>
+		<name>巡检卡</name>
+		<dataSource></dataSource>
+		<x>570</x>
+		<y>100</y>
+		<fontName>黑体</fontName>
+		<style>1</style>
+		<size>36</size>
+	</field>
+	<field>
 		<name>巡检点位：</name>
+		<dataSource>yinhuanpaichadian</dataSource>
 		<x>30</x>
-		<y>350</y>
+		<y>240</y>
 		<fontName>黑体</fontName>
 		<style>0</style>
 		<size>30</size>
 	</field>
-	<field id="2">
+	<field>
 		<name>单位/部门：</name>
+		<dataSource>chejian</dataSource>
 		<x>30</x>
-		<y>450</y>
+		<y>320</y>
 		<fontName>黑体</fontName>
-		<style>1</style>
-		<size>40</size>
+		<style>0</style>
+		<size>30</size>
 	</field>
+	<field>
+		<name>No：</name>
+		<dataSource>bangdingrfidbianma</dataSource>
+		<x>30</x>
+		<y>395</y>
+		<fontName>黑体</fontName>
+		<style>0</style>
+		<size>30</size>
+	</field>
+	<qrcode>
+		<width>350</width>
+		<height>350</height>
+		<x>600</x>
+		<y>235</y>
+	</qrcode>
 </fieldstore>
